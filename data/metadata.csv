@@ -1,0 +1,266 @@
+time of event,time of alert,file name,light conditions,weather,scene,road_type,video path,event,bad video,time of first appearance,event time,ego fault,crash occurance,point of impact,ego vehicle avoidability,ego maneuver,ego speeding,ego_violation,counterpart maneuver,counterpart  speeding,counterpart body style,traffic violation,VRU involve,impact severity
+18.26,19.136,0,Dark,Clear,Urban,signalized intersection,train\00000.mp4,positive,0,5,1,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,truck,right-of-way,no,minor
+19.733,16.9,3,Dark,Rain,Highway,ramp,train\00003.mp4,positive,0,5,0.4,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,proceeding straight,no,suv,no,no,minor
+20.9,18.533,10,Normal,Cloudy,Urban,parking lot,train\00010.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,turning,no,no,proceeding straight,no,suv,stop sign,no,near-miss
+19.067,18.4,14,Normal,Cloudy,Sub-urban,signalized intersection,train\00014.mp4,positive,0,5,0.5,1,1,T-bone,potentially avoidable ,turning,no,right-of-way,proceeding straight,no,suv,no,no,major
+19.7,17.667,15,Bright,Clear,Highway,highway,train\00015.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,proceeding straight,no,sedan,no,no,major
+19.271,17.861,16,Normal,Cloudy,Urban,collector road,train\00016.mp4,positive,0,5,0.6,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,parking,no,suv,no,no,minor
+19.2,17.2,17,Dark,Clear,Highway,signalized intersection,train\00017.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,sedan,no,no,minor
+20.033,18.767,21,Normal,Clear,Urban,signalized intersection,train\00021.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,suv,no,no,minor
+19.433,18.267,22,Normal,Cloudy,Highway,ramp,train\00022.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,merging,no,no,lane changing,no,van,no,no,minor
+20.033,18.467,25,Normal,Rain,Urban,signalized intersection,train\00025.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,merging,no,sedan,right-of-way,no,minor
+19.929,17.74,28,Normal,Cloudy,Urban,signalized intersection,train\00028.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,suv,no,no,minor
+19.933,19.1,29,Normal,Clear,Highway,highway,train\00029.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,yes,no,lane changing,no,suv,no,no,moderate
+19.1,17.733,31,Bright,Clear,Urban,arterial,train\00031.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,lane changing,no,no,turning,no,sedan,right-of-way,no,minor
+19.067,17.6,39,Normal,Clear,Urban,signalized intersection,train\00039.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,sedan,no,no,minor
+20.167,18.5,41,Dark,Clear,Urban,collector road,train\00041.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,no,no,backing up,no,sedan,no,no,moderate
+19.933,17.7,46,Normal,Cloudy,Urban,collector road,train\00046.mp4,positive,0,3.7,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,van,no,no,moderate
+19.399,18.264,49,Normal,Cloudy,Urban,arterial,train\00049.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,parking,no,suv,no,no,minor
+19.3,17.767,54,Normal,Clear,Urban,arterial,train\00054.mp4,positive,0,5,0.5,0,1,T-bone,potentially avoidable ,turning,no,no,turning,no,sedan,no,no,minor
+20.317,19.133,57,Normal,Cloudy,Urban,collector road,train\00057.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,waiting,no,sedan,no,no,minor
+19.149,18.071,58,Dark,Rain,Urban,signalized intersection,train\00058.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,stop,no,van,no,no,minor
+18.833,16.733,61,Dark,Clear,Urban,collector road,train\00061.mp4,positive,0,5,0.5,0,1,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+19.55,17.8,63,Normal,Cloudy,Urban,signalized intersection,train\00063.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,yes,near-miss
+19,17.567,65,Normal,Rain,Urban,stop sign intersection,train\00065.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+21.722,20.787,66,Dark,Rain,Urban,signalized intersection,train\00066.mp4,positive,0,3.5,0.5,0,1,T-bone,unavoidable,proceeding straight,yes,no,turning,no,sedan,red-light-running,no,major
+19.833,18.933,71,Normal,Clear,Urban,parking lot,train\00071.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,lane changing,no,no,proceeding straight,no,suv,no,no,minor
+20.233,18.967,74,Dark,Clear,Urban,signalized intersection,train\00074.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,turning,no,no,stop,no,van,jaywalking,yes,minor
+19.9,17.8,76,Dark,Clear,Urban,arterial,train\00076.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,lane changing,no,right-of-way,proceeding straight,no,sedan,no,no,minor
+18.933,18,78,Normal,Cloudy,Urban,collector road,train\00078.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,suv,jaywalking,yes,moderate
+20.167,17.433,82,Normal,Cloudy,Urban,collector road,train\00082.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,sedan,no,no,minor
+19.4,15.9,86,Normal,Cloudy,Highway,highway,train\00086.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,truck,no,no,minor
+17.006,15.959,99,Normal,Clear,Urban,signalized intersection,train\00099.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,pickup truck,right-of-way,no,moderate
+18.467,17.233,100,Dark,Cloudy,Urban,arterial,train\00100.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,yes,no,lane changing,no,sedan,no,no,minor
+18.067,16.833,102,Normal,Cloudy,Sub-urban,stop sign intersection,train\00102.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+19.3,18.233,108,Dark,Clear,Urban,residential area,train\00108.mp4,positive,0,5,0.5,0,1,head-on,unavoidable,parking,no,no,proceeding straight,yes,sedan,no,no,major
+20.133,16.167,109,Normal,Cloudy,Highway,highway,train\00109.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,van,no,no,minor
+19.783,18.167,111,Normal,Cloudy,Urban,arterial,train\00111.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+18.967,17.433,112,Dark,Clear,Urban,signalized intersection,train\00112.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,slow down,no,sedan,no,yes,minor
+20,18.367,114,Dark,Rain,Urban,signalized intersection,train\00114.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,sedan,no,no,moderate
+20.333,19.4,118,Normal,Clear,Urban,collector road,train\00118.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+17.365,16.107,119,Twilight,Clear,Urban,signalized intersection,train\00119.mp4,positive,0,5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,moderate
+19.3,18.733,121,Normal,Rain,Urban,arterial,train\00121.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+20.733,20,124,Normal,Clear,Urban,collector road,train\00124.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,stop,no,sedan,no,no,major
+18.117,16.419,127,Normal,Clear,Urban,signalized intersection,train\00127.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,sedan,no,no,major
+19.267,18.333,128,Normal,Clear,Urban,collector road,train\00128.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,lane changing,no,no,lane changing,no,sedan,no,no,moderate
+20.567,19.733,129,Normal,Cloudy,Urban,arterial,train\00129.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,pickup truck,no,no,moderate
+19.6,18,130,Normal,Clear,Urban,collector road,train\00130.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,truck,no,no,moderate
+19.903,18.276,133,Normal,Cloudy,Urban,signalized intersection,train\00133.mp4,positive,0,5,0.5,0,1,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+20.619,19.835,141,Dark,Clear,Highway,highway,train\00141.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,stop,no,suv,ilegal parking,no,major
+20.921,19.486,142,Normal,Cloudy,Urban,signalized intersection,train\00142.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,no,no,turning,no,suv,right-of-way,no,moderate
+20.233,18.3,144,Dark,Clear,Urban,signalized intersection,train\00144.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,moderate
+17.4,15.233,145,Normal,Clear,Urban,signalized intersection,train\00145.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+19.517,18.367,147,Dark,Clear,Other,signalized intersection,train\00147.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,turning,no,right-of-way,turning,no,sedan,right-of-way,no,moderate
+19.233,17.3,148,Normal,Cloudy,Urban,signalized intersection,train\00148.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,minor
+21.433,19.033,149,Normal,Cloudy,Urban,signalized intersection,train\00149.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+20.32,18.252,151,Dark,Clear,Urban,signalized intersection,train\00151.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,moderate
+20.091,18.621,152,Normal,Cloudy,Urban,collector road,train\00152.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,turning,no,no,turning,no,van,no,no,minor
+20.554,17.651,153,Normal,Rain,Highway,highway,train\00153.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,moderate
+20.333,17.367,154,Normal,Clear,Urban,signalized intersection,train\00154.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,turning,no,no,proceeding straight,no,sedan,red-light-running,yes,moderate
+19.294,17.596,157,Normal,Clear,Urban,signalized intersection,train\00157.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,suv,right-of-way,no,moderate
+19.833,17.567,160,Dark,Rain,Urban,signalized intersection,train\00160.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+19.983,19.95,162,Dark,Clear,Urban,signalized intersection,train\00162.mp4,positive,0,4.5,0.5,1,0,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,near-miss
+18.758,17.613,163,Normal,Clear,Urban,collector road,train\00163.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,open the door,no,suv,no,no,moderate
+19.816,18.407,166,Normal,Clear,Urban,signalized intersection,train\00166.mp4,positive,0,3.5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,proceeding straight,no,sedan,red-light-running,no,moderate
+19.133,17.833,168,Normal,Cloudy,Urban,signalized intersection,train\00168.mp4,positive,0,5,0.5,0,1,head-on,unavoidable,proceeding straight,no,no,turning,no,sedan,no,no,major
+19.903,18.742,169,Normal,Rain,Urban,signalized intersection,train\00169.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,right-of-way,turning,no,van,red-light-running,no,minor
+21.133,20,170,Dark,Clear,Urban,signalized intersection,train\00170.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,merging,no,no,proceeding straight,no,sedan,no,no,minor
+10.067,6.833,171,Normal,Cloudy,Highway,highway,train\00171.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,moderate
+9.263,6.397,173,Normal,Cloudy,Urban,signalized intersection,train\00173.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+20.8,19.833,180,Normal,Cloudy,Urban,arterial,train\00180.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,lane changing,yes,no,lane changing,no,suv,no,no,moderate
+20.335,18.098,189,Twilight,Cloudy,Urban,arterial,train\00189.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+18.867,15.867,190,Normal,Clear,Highway,ramp,train\00190.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,pickup truck,no,no,minor
+19.5,17.567,192,Dark,Clear,Urban,signalized intersection,train\00192.mp4,positive,0,3.5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,proceeding straight,no,suv,red-light-running,no,moderate
+9.225,7.726,199,Normal,Clear,Sub-urban,stop sign intersection,train\00199.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,no,turning,no,suv,no,no,moderate
+19.132,17.206,200,Dark,Clear,Urban,signalized intersection,train\00200.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+19.633,18.167,202,Normal,Rain,Urban,signalized intersection,train\00202.mp4,positive,0,5,0.5,1,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+21.146,18.196,205,Dark,Clear,Highway,highway,train\00205.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+20.733,17.467,206,Dark,Cloudy,Urban,parking lot,train\00206.mp4,positive,0,5,0.5,1,0,T-bone,clearly avoidable ,proceeding straight,no,no,backing up,no,sedan,no,no,near-miss
+18.4,15.433,207,Normal,Clear,Urban,parking lot,train\00207.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,slow down,no,no,lane changing,no,suv,no,no,minor
+19.8,19.233,208,Normal,Cloudy,Sub-urban,signalized intersection,train\00208.mp4,positive,0,5,0.5,0,1,head-on,unavoidable,proceeding straight,yes,no,turning,no,sedan,no,no,major
+18.719,16.016,213,Normal,Clear,Urban,collector road,train\00213.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,van,no,no,moderate
+20.033,18.6,222,Normal,Cloudy,Highway,ramp,train\00222.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,merging,no,sedan,no,no,moderate
+20.3,19.333,223,Dark,Rain,Urban,signalized intersection,train\00223.mp4,positive,0,4.5,0.5,1,1,sideswipe,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,minor
+21.05,19.667,225,Dark,Rain,Other,parking lot,train\00225.mp4,positive,0,4.5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,backing up,no,sedan,no,no,moderate
+19.433,18.333,226,Normal,Cloudy,Urban,collector road,train\00226.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+20.067,18.767,227,Normal,Cloudy,Urban,collector road,train\00227.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,truck,no,no,moderate
+20.096,19.017,228,Bright,Cloudy,Urban,arterial,train\00228.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,moderate
+19.033,17.333,232,Dark,Rain,Urban,arterial,train\00232.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,red-light-running,proceeding straight,no,sedan,no,no,major
+19.433,18.167,233,Twilight,Cloudy,Urban,signalized intersection,train\00233.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,turning,no,no,turning,no,suv,no,yes,moderate
+9.895,6.63,234,Dark,Clear,Highway,highway,train\00234.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+9.177,7.228,235,Normal,Clear,Other,parking lot,train\00235.mp4,positive,0,5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,proceeding straight,no,sedan,no,no,minor
+9.597,8.898,236,Dark,Clear,Highway,highway,train\00236.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,yes,no,stop,no,sedan,ilegal parking,no,moderate
+19.267,15.167,237,Normal,Clear,Highway,highway,train\00237.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,no,no,backing up,no,truck,no,no,moderate
+19.492,18.546,240,Normal,Cloudy,Urban,arterial,train\00240.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,yes,minor
+19.387,18.258,244,Normal,Cloudy,Urban,signalized intersection,train\00244.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,turning,no,no,turning,no,suv,no,no,moderate
+20.133,19.067,245,Normal,Cloudy,Urban,collector road,train\00245.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,slow down,no,sedan,no,no,minor
+18.95,17.333,252,Normal,Cloudy,Urban,collector road,train\00252.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,suv,no,no,moderate
+22.377,21.038,253,Normal,Cloudy,Other,parking lot,train\00253.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,slow down,no,no,backing up,no,suv,no,no,minor
+18.533,17.2,254,Normal,Clear,Urban,signalized intersection,train\00254.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,suv,right-of-way,no,minor
+20.733,19.967,255,Normal,Clear,Urban,arterial,train\00255.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,slow down,no,suv,no,no,minor
+19.183,18.267,256,Normal,Clear,Urban,arterial,train\00256.mp4,positive,0,3.5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,slow down,no,suv,no,no,moderate
+20.567,18.533,260,Twilight,Cloudy,Urban,signalized intersection,train\00260.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,sedan,right-of-way,no,minor
+17.9,13.933,262,Dark,Clear,Highway,highway,train\00262.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,stop,no,no,backing up,no,truck,no,no,minor
+19.231,16.905,264,Normal,Rain,Urban,collector road,train\00264.mp4,positive,0,4,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,moderate
+20.433,18.067,265,Normal,Cloudy,Urban,signalized intersection,train\00265.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,pickup truck,no,no,minor
+20.333,18.667,270,Normal,Cloudy,Urban,arterial,train\00270.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,lane changing,no,sedan,no,no,minor
+20.539,18.871,272,Dark,Clear,Urban,collector road,train\00272.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,pickup truck,no,no,minor
+20.533,19.4,273,Dark,Rain,Urban,signalized intersection,train\00273.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,sedan,right-of-way,no,minor
+10.166,8.466,275,Normal,Cloudy,Highway,ramp,train\00275.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,yes,no,lane changing,no,van,no,no,moderate
+19.55,18.733,276,Normal,Clear,Urban,signalized intersection,train\00276.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+19.367,17.9,282,Normal,Clear,Urban,signalized intersection,train\00282.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,turning,no,suv,no,no,minor
+9.896,8.763,283,Dark,Clear,Highway,highway,train\00283.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,yes,no,turning,no,pickup truck,no,no,major
+19.802,18.658,284,Normal,Cloudy,Urban,signalized intersection,train\00284.mp4,positive,0,4,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,red-light-running,turning,no,sedan,red-light-running,no,moderate
+20.317,18.815,285,Dark,Clear,Urban,arterial,train\00285.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,stop,no,van,no,no,minor
+19.601,17.347,286,Normal,Clear,Sub-urban,stop sign intersection,train\00286.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,stop sign,turning,no,suv,no,no,minor
+18.919,17.873,288,Normal,Clear,Urban,collector road,train\00288.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,open the door,no,sedan,no,no,minor
+20.5,19.167,289,Dark,Clear,Urban,arterial,train\00289.mp4,positive,0,3.5,0.5,0,1,T-bone,unavoidable,proceeding straight,yes,no,turning,no,sedan,no,no,major
+18.33,17.448,290,Normal,Cloudy,Urban,signalized intersection,train\00290.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+17.647,15.229,291,Dark,Cloudy,Highway,highway,train\00291.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,yes,no,lane changing,no,suv,no,no,minor
+20.8,19.533,292,Normal,Clear,Urban,signalized intersection,train\00292.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,turning,no,sedan,right-of-way,no,minor
+19.6,16.533,294,Normal,Clear,Urban,arterial,train\00294.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,yes,no,slow down,no,sedan,no,no,moderate
+19.133,18.167,295,Normal,Cloudy,Urban,signalized intersection,train\00295.mp4,positive,0,5,0.5,1,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+20.641,19.073,298,Twilight,Rain,Urban,signalized intersection,train\00298.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,no,no,minor
+10.064,8.464,300,Normal,Clear,Highway,highway,train\00300.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,slow down,no,truck,no,no,moderate
+20.02,19.119,301,Normal,Cloudy,Urban,signalized intersection,train\00301.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+19.067,17.5,302,Normal,Clear,Urban,signalized intersection,train\00302.mp4,positive,0,5,0.5,0,1,rear-end,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,moderate
+20.367,19.133,307,Dark,Clear,Urban,signalized intersection,train\00307.mp4,positive,0,5,0.5,0,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+19.802,16.572,308,Dark,Clear,Urban,signalized intersection,train\00308.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+19.233,18.433,309,Normal,Cloudy,Urban,collector road,train\00309.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,open the door,no,suv,no,no,moderate
+18.714,14.533,311,Twilight,Cloudy,Urban,signalized intersection,train\00311.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,van,no,no,minor
+21.8,19.774,312,Normal,Clear,Urban,arterial,train\00312.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,yes,no,stop,no,sedan,no,no,moderate
+20.6,18.733,320,Normal,Clear,Urban,signalized intersection,train\00320.mp4,positive,0,5,0.5,0,1,T-bone,potentially avoidable ,turning,no,no,proceeding straight,no,suv,no,no,minor
+19.067,17.867,321,Normal,Rain,Urban,signalized intersection,train\00321.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,suv,right-of-way,no,moderate
+20.05,19.167,324,Dark,Clear,Urban,collector road,train\00324.mp4,positive,0,3.5,0.5,1,1,T-bone,clearly avoidable ,turning,no,no,turning,no,suv,no,no,moderate
+19.417,18.3,325,Normal,Cloudy,Urban,arterial,train\00325.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,no,no,slow down,no,suv,no,yes,major
+18.388,16.624,327,Normal,Cloudy,Urban,signalized intersection,train\00327.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,minor
+19.355,18.613,328,Dark,Clear,Urban,signalized intersection,train\00328.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,sedan,right-of-way,no,moderate
+19.233,17.833,329,Normal,Cloudy,Urban,collector road,train\00329.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,minor
+19.511,18.008,331,Dark,Clear,Highway,ramp,train\00331.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,merging,no,no,stop,no,sedan,no,no,moderate
+5.833,5.333,332,Normal,Clear,Urban,signalized intersection,train\00332.mp4,positive,0,5,0.5,0,1,head-on,unavoidable,proceeding straight,no,no,turning,no,sedan,no,no,major
+19.667,17,333,Normal,Cloudy,Urban,arterial,train\00333.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,minor
+18.032,15.871,340,Normal,Clear,Urban,collector road,train\00340.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,pickup truck,no,no,minor
+19.481,16.975,341,Normal,Cloudy,Urban,signalized intersection,train\00341.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,turning,no,sedan,no,yes,minor
+18.826,15.689,343,Normal,Cloudy,Urban,arterial,train\00343.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,minor
+19.947,17.462,344,Normal,Clear,Highway,highway,train\00344.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+19.467,17.933,345,Dark,Clear,Sub-urban,arterial,train\00345.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,yes,no,turning,no,sedan,no,no,major
+19.57,17.933,348,Normal,Clear,Sub-urban,signalized intersection,train\00348.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,yes,no,turning,no,suv,no,no,major
+20.152,18.159,349,Normal,Cloudy,Urban,signalized intersection,train\00349.mp4,positive,0,5,0.5,1,0,rear-end,clearly avoidable ,turning,no,red-light-running,slow down,no,suv,red-light-running,no,near-miss
+19.85,18.133,354,Normal,Clear,Urban,stop sign intersection,train\00354.mp4,positive,0,4,0.5,1,1,T-bone,clearly avoidable ,turning,no,no,proceeding straight,no,sedan,no,no,minor
+10.199,8.999,356,Normal,Clear,Sub-urban,signalized intersection,train\00356.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,turning,no,no,proceeding straight,no,sedan,no,no,moderate
+19.233,16.1,358,Normal,Cloudy,Urban,collector road,train\00358.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+19.852,18.312,361,Normal,Cloudy,Urban,collector road,train\00361.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,van,no,no,moderate
+19.107,17.637,363,Normal,Cloudy,Urban,arterial,train\00363.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,moderate
+20.427,19.447,364,Normal,Clear,Urban,signalized intersection,train\00364.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+19.967,17.433,366,Dark,Clear,Urban,signalized intersection,train\00366.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+20.167,17.7,369,Dark,Clear,Urban,stop sign intersection,train\00369.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,no,proceeding straight,no,sedan,no,no,moderate
+22.267,21.5,370,Normal,Rain,Urban,signalized intersection,train\00370.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,lane changing,no,right-of-way,proceeding straight,no,suv,no,no,moderate
+17.671,16.364,375,Normal,Clear,Other,signalized intersection,train\00375.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,turning,no,suv,no,no,moderate
+18.3,15.733,378,Dark,Clear,Urban,signalized intersection,train\00378.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+18.352,17.384,381,Dark,Clear,Urban,signalized intersection,train\00381.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+18.258,17.29,382,Normal,Cloudy,Urban,residential area,train\00382.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,parking,no,suv,no,no,moderate
+16.847,15.159,387,Dark,Clear,Highway,ramp,train\00387.mp4,positive,0,5,0.5,1,1,sideswipe,potentially avoidable ,proceeding straight,yes,no,lane changing,no,suv,right-of-way,no,minor
+20,18,393,Dark,Clear,Highway,ramp,train\00393.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,yes,no,stop,no,sedan,no,no,major
+20.033,17.295,405,Normal,Clear,Urban,parking lot,train\00405.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,no,backing up,no,van,no,no,minor
+20.717,18.833,407,Dark,Clear,Highway,highway,train\00407.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+19.953,17.551,408,Dark,Clear,Urban,collector road,train\00408.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+20.9,20.067,410,Normal,Cloudy,Highway,ramp,train\00410.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,yes,no,slow down,no,suv,no,no,major
+20.033,18.1,413,Normal,Cloudy,Urban,collector road,train\00413.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+20.333,18.967,415,Normal,Cloudy,Urban,signalized intersection,train\00415.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+20.34,19.459,416,Normal,Cloudy,Urban,collector road,train\00416.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,moderate
+10.058,9.059,417,Normal,Clear,Highway,highway,train\00417.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,yes,no,proceeding straight,no,sedan,no,no,moderate
+20.033,18.4,418,Twilight,Clear,Urban,arterial,train\00418.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,slow down,no,suv,no,no,minor
+20.167,18.233,424,Normal,Clear,Urban,signalized intersection,train\00424.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,turning,no,suv,no,no,minor
+19.989,19.401,426,Normal,Clear,Urban,signalized intersection,train\00426.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,stop,no,sedan,no,no,major
+18.56,17.241,427,Dark,Clear,Urban,signalized intersection,train\00427.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,lane changing,no,no,backing up,no,sedan,centerline,no,moderate
+16.867,15.467,428,Dark,Cloudy,Urban,stop sign intersection,train\00428.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+19.381,18.51,430,Normal,Cloudy,Urban,signalized intersection,train\00430.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+21.783,20.4,431,Dark,Clear,Highway,highway,train\00431.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+21.8,18.967,433,Normal,Cloudy,Urban,signalized intersection,train\00433.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,turning,no,no,turning,no,truck,no,no,minor
+9.532,8.099,434,Normal,Cloudy,Sub-urban,signalized intersection,train\00434.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,proceeding straight,no,red-light-running,proceeding straight,no,suv,no,no,major
+20.167,19,437,Dark,Clear,Urban,signalized intersection,train\00437.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+18.933,17.567,440,Dark,Clear,Urban,arterial,train\00440.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,turning,no,suv,no,yes,minor
+19.25,16.433,444,Normal,Cloudy,Urban,collector road,train\00444.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+20.285,18.946,450,Dark,Clear,Urban,signalized intersection,train\00450.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+19.8,18.367,452,Dark,Clear,Urban,stop sign intersection,train\00452.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+20.15,18.419,453,Dark,Cloudy,Highway,ramp,train\00453.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+19.133,16.933,454,Dark,Clear,Urban,signalized intersection,train\00454.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,slow down,no,sedan,right-of-way,no,minor
+18.653,17.281,455,Dark,Clear,Urban,signalized intersection,train\00455.mp4,positive,0,4.5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,centerline,no,minor
+18.733,17.6,456,Normal,Clear,Urban,arterial,train\00456.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,yes,no,lane changing,no,pickup truck,no,no,moderate
+19.067,17.233,458,Dark,Clear,Urban,signalized intersection,train\00458.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,turning,no,suv,no,yes,minor
+20.047,18.38,460,Dark,Clear,Urban,parking lot,train\00460.mp4,positive,0,5,0.5,1,1,head-on,clearly avoidable ,turning,no,no,turning,no,sedan,no,no,minor
+20.433,19.333,463,Dark,Clear,Sub-urban,highway,train\00463.mp4,positive,0,5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,parking,no,suv,no,no,minor
+19.733,18.8,464,Normal,Cloudy,Highway,residential area,train\00464.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+19.033,17.6,466,Normal,Clear,Urban,collector road,train\00466.mp4,positive,0,3.5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,backing up,no,suv,no,no,moderate
+19.833,18.267,471,Dark,Clear,Highway,highway,train\00471.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,moderate
+21.067,18.6,473,Dark,Rain,Highway,highway,train\00473.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,slow down,no,sedan,no,no,major
+19.9,18.233,474,Twilight,Cloudy,Urban,signalized intersection,train\00474.mp4,positive,0,5,0.5,1,1,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,van,no,no,minor
+20,18.833,477,Normal,Clear,Urban,arterial,train\00477.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,turning,no,pickup truck,no,no,minor
+20.123,18.425,480,Normal,Clear,Highway,highway,train\00480.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,van,no,no,minor
+19.2,17,485,Dark,Clear,Urban,collector road,train\00485.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,parking,no,truck,no,no,moderate
+9.561,7.896,486,Normal,Cloudy,Urban,signalized intersection,train\00486.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,truck,no,no,minor
+20.1,18.867,491,Normal,Cloudy,Urban,signalized intersection,train\00491.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,moderate
+19.433,17.433,493,Normal,Clear,Urban,signalized intersection,train\00493.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+19.217,17.033,495,Normal,Clear,Urban,collector road,train\00495.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,minor
+20.296,18.077,501,Bright,Clear,Urban,signalized intersection,train\00501.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,suv,jaywalking,yes,minor
+19.667,16,502,Dark,Clear,Highway,highway,train\00502.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,sedan,no,no,minor
+19.4,16.033,503,Normal,Cloudy,Urban,stop sign intersection,train\00503.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,suv,no,no,minor
+19.343,17.97,506,Bright,Clear,Highway,signalized intersection,train\00506.mp4,positive,0,5,0.5,0,1,rear-end,unavoidable,proceeding straight,yes,no,turning,no,sedan,no,no,major
+18.633,17.5,510,Normal,Rain,Urban,collector road,train\00510.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,lane changing,no,no,turning,no,van,no,no,moderate
+19.9,17.867,515,Normal,Clear,Urban,signalized intersection,train\00515.mp4,positive,0,5,0.5,0,1,sideswipe,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,minor
+20.6,19.633,516,Normal,Clear,Urban,signalized intersection,train\00516.mp4,positive,0,5,0.5,0,1,T-bone,unavoidable,proceeding straight,no,no,turning,no,sedan,right-of-way,no,moderate
+20.71,18.984,521,Normal,Clear,Urban,signalized intersection,train\00521.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,turning,no,no,turning,no,sedan,no,yes,minor
+19.825,16.526,522,Normal,Clear,Urban,signalized intersection,train\00522.mp4,positive,0,3.5,0.5,1,1,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,no,minor
+20.3,18.133,523,Normal,Rain,Urban,collector road,train\00523.mp4,positive,0,5,0.5,0,1,sideswipe,unavoidable,proceeding straight,no,no,turning,no,suv,no,no,moderate
+20.6,17.8,527,Normal,Clear,Highway,ramp,train\00527.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,lane changing,no,no,lane changing,no,sedan,no,no,minor
+19.805,18.629,529,Bright,Clear,Urban,signalized intersection,train\00529.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,minor
+19.644,17.715,534,Dark,Clear,Urban,signalized intersection,train\00534.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,moderate
+19.883,18.7,538,Normal,Clear,Urban,arterial,train\00538.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,sedan,no,no,moderate
+19.471,16.727,542,Dark,Clear,Other,parking lot,train\00542.mp4,positive,0,3.5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,no,no,minor
+19.867,18.333,543,Dark,Clear,Highway,highway,train\00543.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,slow down,no,suv,no,no,minor
+21.455,20.354,544,Normal,Clear,Rural,arterial,train\00544.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,yes,no,slow down,no,sedan,no,no,minor
+19.967,17.8,547,Bright,Clear,Urban,signalized intersection,train\00547.mp4,positive,0,5,0.5,1,1,rear-end,clearly avoidable ,proceeding straight,no,no,stop,no,truck,no,no,minor
+20.1,18.767,550,Normal,Clear,Urban,highway,train\00550.mp4,positive,0,5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,slow down,no,van,no,no,moderate
+20.3,18.8,551,Normal,Cloudy,Urban,arterial,train\00551.mp4,positive,0,5,0.5,1,1,T-bone,clearly avoidable ,turning,no,no,proceeding straight,no,suv,no,no,major
+21.069,20.383,553,Dark,Clear,Urban,signalized intersection,train\00553.mp4,positive,0,5,0.5,0,1,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,no,no,major
+20.888,19.019,556,Normal,Clear,Sub-urban,signalized intersection,train\00556.mp4,positive,0,4.5,0.5,1,1,rear-end,potentially avoidable ,proceeding straight,no,no,turning,no,suv,no,no,minor
+19.379,17.297,563,Dark,Clear,Urban,collector road,train\00563.mp4,positive,0,5,0.5,1,0,sideswipe,potentially avoidable ,proceeding straight,no,no,open the door,no,van,no,no,near-miss
+19.767,17.567,570,Dark,Clear,Urban,arterial,train\00570.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,lane changing,yes,no,lane changing,no,sedan,no,no,near-miss
+19.91,18.139,581,Dark,Clear,Urban,signalized intersection,train\00581.mp4,positive,0,5,0.5,0,0,T-bone,clearly avoidable ,lane changing,no,no,turning,no,sedan,right-of-way,no,near-miss
+21.068,18.431,610,Dark,Clear,Urban,signalized intersection,train\00610.mp4,positive,0,5,0.5,0,0,rear-end,potentially avoidable ,slow down,no,no,lane changing,no,van,jaywalking,yes,near-miss
+19.479,18.128,625,Normal,Rain,Urban,collector road,train\00625.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,slow down,no,no,open the door,no,sedan,no,no,near-miss
+19.867,18.333,626,Normal,Clear,Urban,collector road,train\00626.mp4,positive,0,5,0.5,1,0,head-on,potentially avoidable ,turning,no,centerline,turning,no,sedan,centerline,no,near-miss
+20.133,16.833,648,Dark,Clear,Highway,highway,train\00648.mp4,positive,0,5,0.5,1,0,rear-end,potentially avoidable ,lane changing,yes,no,lane changing,no,sedan,no,no,near-miss
+20.833,19.433,664,Bright,Clear,Urban,arterial,train\00664.mp4,positive,0,5,0.5,0,0,rear-end,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,right-of-way,no,near-miss
+21.633,20.1,666,Dark,Clear,Highway,highway,train\00666.mp4,positive,0,5,0.5,0,0,sideswipe,potentially avoidable ,lane changing,no,no,parking,no,sedan,ilegal parking,no,near-miss
+19.2,18.5,675,Twilight,Clear,Sub-urban,arterial,train\00675.mp4,positive,0,5,0.5,0,0,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,pickup truck,no,no,near-miss
+20.1,18.967,677,Normal,Rain,Urban,signalized intersection,train\00677.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,suv,jaywalking,yes,near-miss
+19.7,18.533,682,Dark,Clear,Highway,ramp,train\00682.mp4,positive,0,5,0.5,1,0,T-bone,clearly avoidable ,proceeding straight,no,right-of-way,turning,no,sedan,no,no,near-miss
+20.912,19.474,683,Normal,Clear,Urban,arterial,train\00683.mp4,positive,0,5,0.5,1,0,head-on,clearly avoidable ,proceeding straight,yes,no,turning,no,suv,no,no,near-miss
+20.194,19.181,693,Twilight,Clear,Urban,stop sign intersection,train\00693.mp4,positive,0,5,0.5,0,0,sideswipe,potentially avoidable ,proceeding straight,no,no,open the door,no,suv,no,no,near-miss
+20.767,17.667,695,Dark,Clear,Urban,signalized intersection,train\00695.mp4,positive,0,5,0.5,0,0,sideswipe,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,near-miss
+20.764,18.589,707,Dark,Clear,Urban,signalized intersection,train\00707.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,centerline,no,near-miss
+19.576,18.303,730,Normal,Clear,Sub-urban,arterial,train\00730.mp4,positive,0,5,0,1,0,sideswipe,potentially avoidable ,proceeding straight,yes,no,lane changing,yes,sedan,no,no,near-miss
+20.5,19.667,737,Normal,Clear,Urban,signalized intersection,train\00737.mp4,positive,0,5,0.5,1,0,T-bone,clearly avoidable ,proceeding straight,yes,red-light-running,turning,no,sedan,no,no,near-miss
+19.3,17.633,763,Dark,Rain,Urban,collector road,train\00763.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,turning,no,no,lane changing,no,suv,no,no,near-miss
+19.398,17.928,771,Normal,Cloudy,Urban,signalized intersection,train\00771.mp4,positive,0,5,0.5,0,0,rear-end,potentially avoidable ,turning,no,no,turning,no,sedan,no,yes,near-miss
+20.4,19.4,774,Normal,Clear,Sub-urban,stop sign intersection,train\00774.mp4,positive,0,5,0.5,1,0,head-on,clearly avoidable ,turning,no,stop sign,turning,no,sedan,no,no,near-miss
+21.265,20.35,783,Bright,Clear,Urban,signalized intersection,train\00783.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,slow down,yes,no,turning,no,sedan,no,no,near-miss
+19.933,18.533,785,Normal,Cloudy,Urban,stop sign intersection,train\00785.mp4,positive,0,5,0.5,1,0,head-on,clearly avoidable ,slow down,no,stop sign,proceeding straight,no,suv,no,no,near-miss
+19.8,18.667,791,Dark,Clear,Urban,signalized intersection,train\00791.mp4,positive,0,5,0.5,1,0,rear-end,clearly avoidable ,turning,no,no,slow down,no,suv,no,no,near-miss
+20.905,19.631,794,Normal,Clear,Highway,ramp,train\00794.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,proceeding straight,yes,off-road-running,lane changing,no,suv,no,no,near-miss
+21.267,20.2,816,Dark,Clear,Urban,signalized intersection,train\00816.mp4,positive,0,5,0.5,0,0,head-on,potentially avoidable ,proceeding straight,no,no,turning,yes,sedan,centerline,no,near-miss
+20.521,18.082,824,Dark,Clear,Urban,signalized intersection,train\00824.mp4,positive,0,5,0.5,0,0,rear-end,potentially avoidable ,proceeding straight,no,no,proceeding straight,no,suv,jaywalking,yes,near-miss
+19.167,18.667,865,Dark,Clear,Urban,arterial,train\00865.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,suv,right-of-way,no,near-miss
+20.767,18.2,866,Dark,Clear,Urban,arterial,train\00866.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,turning,no,no,turning,no,van,right-of-way,no,near-miss
+20.167,18.6,877,Twilight,Clear,Highway,ramp,train\00877.mp4,positive,0,5,0.5,1,0,sideswipe,clearly avoidable ,proceeding straight,no,no,lane changing,no,suv,no,no,near-miss
+19.15,16.414,890,Dark,Cloudy,Urban,signalized intersection,train\00890.mp4,positive,0,5,0.5,0,0,head-on,potentially avoidable ,lane changing,no,no,turning,no,suv,right-of-way,no,near-miss
+19.233,17.7,891,Dark,Clear,Urban,signalized intersection,train\00891.mp4,positive,0,5,0.5,0,0,sideswipe,potentially avoidable ,proceeding straight,no,no,lane changing,no,sedan,no,yes,near-miss
+20.586,18.887,895,Normal,Clear,Urban,signalized intersection,train\00895.mp4,positive,0,5,0.5,0,0,head-on,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,right-of-way,no,near-miss
+21.302,18.998,909,Dark,Clear,Urban,signalized intersection,train\00909.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,proceeding straight,no,suv,red-light-running,no,near-miss
+20.033,16.4,927,Dark,Clear,Urban,signalized intersection,train\00927.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,right-of-way,no,near-miss
+19.5,17.667,928,Dark,Clear,Urban,arterial,train\00928.mp4,positive,0,5,0.5,0,0,rear-end,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,right-of-way,no,near-miss
+18.467,16.033,929,Dark,Clear,Sub-urban,stop sign intersection,train\00929.mp4,positive,0,5,0.5,1,0,head-on,clearly avoidable ,proceeding straight,no,stop sign,turning,no,pickup truck,no,no,near-miss
+20.287,19.219,948,Normal,Clear,Sub-urban,residential area,train\00948.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,proceeding straight,no,no,turning,no,sedan,stop sign,no,near-miss
+19.533,16.9,955,Normal,Clear,Sub-urban,stop sign intersection,train\00955.mp4,positive,0,5,0.5,0,0,head-on,potentially avoidable ,proceeding straight,no,no,turning,no,suv,stop sign,no,near-miss
+19.237,17.898,960,Normal,Cloudy,Urban,signalized intersection,train\00960.mp4,positive,0,5,0.5,0,0,T-bone,potentially avoidable ,turning,no,no,turning,no,sedan,no,yes,near-miss

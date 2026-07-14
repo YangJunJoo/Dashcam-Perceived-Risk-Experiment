@@ -1,0 +1,5 @@
+Model,Best Score (AUC),Best Parameters
+Random Forest,0.7773131077415545,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 400}"
+Gradient Boosting,0.7874258783850523,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 400, 'subsample': 0.8}"
+XGBoost,0.7890975019208613,"{'colsample_bytree': 1.0, 'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 400, 'subsample': 0.8}"
+LightGBM,0.7898792505695529,"{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'n_estimators': 200, 'num_leaves': 50, 'subsample': 0.8}"

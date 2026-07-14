@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large binaries & data caches (exceeding Git size recommendation of 50MB)
+*.pkl
+*.npz
+data/**/*.pkl
+data/**/*.npz
+data/main/*.npz
+
+# Non-anonymized raw data and survey exports containing PII (Prolific IDs, IP, etc.)
+data/prolific_export_*.csv
+data/df_long.csv
+data/subgroup_df_sorted.csv
+data/metadata_ideal.csv
+
+# Large intermediate datasets
+data/raw_survey_data.parquet
+data/df_final.parquet
+data/main/df_final.parquet
+data/main/df_final_*.parquet
