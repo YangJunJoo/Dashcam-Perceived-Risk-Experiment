@@ -1,7 +1,7 @@
 # Autonomous Vehicles Near-miss Risk Perception: Scripts & Data Replication Package
 
-This directory contains the finalized code scripts, survey configurations, and datasets associated with the manuscript:
-**"Autonomous Vehicles Change How People Judge Risk in Near-misses"** (Joo et al., 2026) published in *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*.
+This directory contains the finalized code scripts, survey configurations, and datasets associated with the working paper:
+**"Autonomous Vehicles Change How People Judge Risk in Near-misses"** (Joo et al., 2026). Currently under review (first round). SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5437729](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5437729)
 
 This guide provides a comprehensive overview of the reproduction pipeline, detailing how raw survey responses and video metadata are processed, modeled using a double machine learning causal forest algorithm, and plotted to produce the findings presented in the paper.
 
